@@ -1,0 +1,25 @@
+
+Desafio DIO - Simulador de Investimentos em Fundos Imobiliários (Excel)
+
+Descrição:
+Esta planilha permite ao usuário simular investimentos mensais em FIIs, considerando uma taxa fixa de rendimento mensal.
+
+Parâmetros Utilizados no Exemplo:
+- Aporte Mensal: R$ 500,00
+- Taxa de Rendimento: 1% ao mês
+- Período: 12 meses
+
+Colunas da Planilha:
+- Mês: Número do mês da simulação
+- Aporte Mensal: Valor investido a cada mês
+- Total Investido: Acúmulo total de aportes feitos até o mês atual
+- Rendimento Mensal: Valor do rendimento ganho no mês, com base no patrimônio acumulado
+- Dividendos Acumulados: Soma dos dividendos recebidos até o momento
+- Patrimônio Total: Valor total acumulado (investido + rendimentos)
+
+Instruções:
+Para personalizar a simulação, altere o valor do aporte mensal e a taxa de rendimento diretamente na planilha.
+
+Tecnologia utilizada:
+- Microsoft Excel
+- Fórmulas básicas de progressão e rendimento (sem uso de VBA ou macros)
